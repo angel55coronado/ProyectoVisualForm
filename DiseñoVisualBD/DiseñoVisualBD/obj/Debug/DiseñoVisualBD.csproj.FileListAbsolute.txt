@@ -1,0 +1,13 @@
+C:\Users\dante\source\repos\DiseñoVisualBD\DiseñoVisualBD\bin\Debug\DiseñoVisualBD.exe.config
+C:\Users\dante\source\repos\DiseñoVisualBD\DiseñoVisualBD\bin\Debug\DiseñoVisualBD.exe
+C:\Users\dante\source\repos\DiseñoVisualBD\DiseñoVisualBD\bin\Debug\DiseñoVisualBD.pdb
+C:\Users\dante\source\repos\DiseñoVisualBD\DiseñoVisualBD\obj\Debug\DiseñoVisualBD.csprojAssemblyReference.cache
+C:\Users\dante\source\repos\DiseñoVisualBD\DiseñoVisualBD\obj\Debug\DiseñoVisualBD.Clientes.resources
+C:\Users\dante\source\repos\DiseñoVisualBD\DiseñoVisualBD\obj\Debug\DiseñoVisualBD.FormMenu.resources
+C:\Users\dante\source\repos\DiseñoVisualBD\DiseñoVisualBD\obj\Debug\DiseñoVisualBD.Producto.resources
+C:\Users\dante\source\repos\DiseñoVisualBD\DiseñoVisualBD\obj\Debug\DiseñoVisualBD.Properties.Resources.resources
+C:\Users\dante\source\repos\DiseñoVisualBD\DiseñoVisualBD\obj\Debug\DiseñoVisualBD.Proveedores.resources
+C:\Users\dante\source\repos\DiseñoVisualBD\DiseñoVisualBD\obj\Debug\DiseñoVisualBD.csproj.GenerateResource.cache
+C:\Users\dante\source\repos\DiseñoVisualBD\DiseñoVisualBD\obj\Debug\DiseñoVisualBD.csproj.CoreCompileInputs.cache
+C:\Users\dante\source\repos\DiseñoVisualBD\DiseñoVisualBD\obj\Debug\DiseñoVisualBD.exe
+C:\Users\dante\source\repos\DiseñoVisualBD\DiseñoVisualBD\obj\Debug\DiseñoVisualBD.pdb
